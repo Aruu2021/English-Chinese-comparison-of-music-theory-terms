@@ -4,34 +4,76 @@
 ## A 1
 - accented 强位
 - accidental 变音记号
+- altered chord 变和弦，变化和弦
+- alto 女低音，中音声部
 - alto clef 女低音谱号，中音谱号
 - anacrusis 弱起
+- anticipation 先现音
+- appoggiatura 倚音
+- approach 到达，（不协和音的）预备
+- arpeggiation 琶音式，分解和弦式
+- arpeggio 琶音
 - ascending 上行
+- augmented 增（指音程或和弦性质）
+- augmented dominant chord 增属和弦，升五音的属
+- augmented sixth 增六度
+- augmented sixth chord 增六和弦
 ## B 2
 - bar 小节
 - bar line 小节线
+- bass 男低音，低音声部
 - bass clef 低音谱号
+- bass position 低音位置，低音位
+- bass-position symbol 低音位置标记，功能和弦标记
 - beam 符杠
 - beat 拍，拍子
+- borrowed chord 借用和弦，变音和弦
+- bottom note （音程）下方音
 - breve note 二全音符
+- broken 分解
+- broken chord 分解和弦
 ## C 3
+- cadential six-four chord 终止四六和弦，K46和弦
 - caret 音级数字上面的^符号
+- chord 和弦
 - chromatic 半音的，色彩化的
+- chromatic chord 半音和弦，变音和弦
+- chromaticism 半音体系
 - circle of fifth 五度圈
 - clef 谱号
 - closely related key 近关系调
+- close structure 密集排列
+- common chord 共同和弦
+- common tone 共同音
 - compound beat 复拍子
+- compound interval 复音程
 - compound single 复一拍子
+- conjunct motion 级进
+- consonant （音程或和弦）协和
+- contrary motion 反行，反向进行
+- counterpoint 对位法
+- contrapuntal motion 对位化运动
 ## D 4
+- deceptive progression 阻碍进行
 - degree 音级
 - degree number 音级数字
 - descending 下行
+- diatonic chord 自然和弦
+- diminished 减（指音程或和弦性质）
+- diminished seventh chord 减七和弦，减减七和弦
+- direct fifth 隐伏五度
+- dissonance 不协和的
+- dissonant （音程或和弦）不协和
 - distantly related key 远关系调
 - dominant 属音
+- dominant seventh chord 属七和弦
+- dominant with substituted sixth 六度音的属
 - dot 附点
 - double dot 复附点
 - double flat 重降号
 - double sharp  重升号
+- doubly augmented 倍增（指音程性质）
+- doubly diminished 倍减（指音程性质）
 - downbeat 强拍，下拍
 - duple 二拍
 - duple meter 二拍子
@@ -40,26 +82,51 @@
 - durational symbol 时值符号
 ## E 5
 - eighth note 八分音符
+- eleventh chord 十一和弦
 - enharmonic 异名同音的
 - enharmonic equivalent 等音
+- enharmonic interval 等音程
+- enharmonic modulation 等和弦转调
+- escape tone 逸音，规避音，跳进解决的辅助音
 ## F 6
+- fifth 五度；（和弦的）五音
+- figure 音型（用于泛指一些非典型外音，这些非典型外音主要表现为预备和解决时的非典型形态）
+- figured bass 数字低音
+- first inversion 第一转位
 - flag 符尾
 - flat 降号
 - foreign relationship 远关系调
+- four-part harmony 四部和声
+- fourth 四度
+- French augmented sixth chord 法兰西增六和弦
 - full score 总谱
+- function 功能
 - fundamental tone 基音
 ## G 7
+- German augmented sixth chord 德意志增六和弦
 - grand staff 大谱表
 ## H 8
+- half-diminished seventh chord 半减七和弦
 - half note 二分音符
 - half step 半音
+- harmonic 和声的
+- harmonic interval 和声音程
 - harmonic minor scale 和声小调音阶
+- harmonic motion 和声化运动
 - harmonic overtone 泛音列
+- harmonic progression 和声进行
 - harmonics 泛音
 - harmonic series 泛音列
+- harmonizing 为...配和声
+- harmony 和声
 - hemiola 赫米奥拉比例 （3+3=2+2+2三比二）
+- hidden fifth 隐伏五度
 ## I 9
--
+- interval 音程
+- interval inversion 音程转位
+- inversion  n.（音程或和弦）转位
+- invert  v.（音程或和弦）转位
+- Italian augmented sixth chord 意大利增六和弦
 ## J 10
 -
 ## K 11
@@ -67,38 +134,76 @@
 - keyboard （键盘乐器的）键盘
 - key signature 调号
 ## L 12
-- leading tone 导音
+- leading-tone 导音
+- leading-tone seventh chord 导七和弦
+- leap 跳进
 - ledger line 加线
 - line （五线谱的）线
 ## M 13
-- major 大调
+- major 大调；大（指音程或和弦的性质）
+- major-minor seventh chord 大小七和弦
 - major scale 大调音阶
+- major seventh chord 大七和弦，大大七和弦
 - measure 小节
 - mediant 中音（音阶的三级音)
-- melodic minor  scale 旋律小调音阶
+- melodic interval 旋律音程
+- melodic minor scale 旋律小调音阶
+- melody 旋律
 - meter 节拍
 - metric accent 节律重音
 - metronome 节拍器
 - middle C 中央C
-- minor 小调
+- minor 小调；小（指音程或和弦性质）
 - minor scale 小调音阶
+- minor seventh chord 小七和弦
 - mode 调式
+- mode mixture 调式交替，转旋
+- modifier 音程性质
+- modulate  v.转调
+- modulating sequence 转调模进
+- modulation  n.转调
+- monophonic 单声部的
 - musical score 乐谱
-- musicl tone 乐音
+- musical tone 乐音
+- motion 进行，运动
 ## N 14
 - natural 还原号
 - natural minor scale 自然小调音阶
+- Neapolitan chord 那不勒斯和弦，拿波里和弦
+- neighboring tone 辅助音，邻音
+- ninth chord 九和弦
+- nonchord tone 和弦外音
 - notation 记谱法
 - note 音符
+- numerical name 音程度数
 ## O 15
+- oblique motion 斜行，斜向进行
 - octave 八度
 - octave register 八度音区
+- open structure 开放排列
 - overtone 泛音
 ## P 16
+- parallel fifth 平行五度
 - parallel key 同主音调，平行调
 - parallel minor 同主音小调
+- parallel motion 平行进行
+- parallel octave 平行八度
+- part 声部
+- part writing 声部写作
+- passsing chord 经过和弦
+- passing six-four chord 经过四六和弦
+- passing tone 经过音
+- pedal point 持续音
+- pedal six-four chord 辅助四六和弦
+- perfect 纯 （指音程性质）
+- picardy third 皮卡迪三度
 - pitch 音高
 - pitch class 音级，音高级
+- plagal progression 变格进行
+- pre-dominant 属前和弦，预属和弦
+- preparation 预备音
+- progress  v.进行
+- progression  n.进行
 - pure tone 纯音
 ## Q 17
 - quadruple 四拍
@@ -108,53 +213,99 @@
 - quarter note 四分音符
 - quintuplet 五连音 
 ## R 18
+- range 音域
+- real sequence 半音模进，严格模进
 - reduced score 缩谱
 - register 音区
 - relative key 关系调（关系调也叫平行调，是因为俄文称关系调为平行调，影响了我国早期术语翻译，而同主音调英文使用了parallel这个词，与俄文相反）
+- resolution 解决；（不协和音的）解决音
+- resolve 解决
 - rest 休止符
+- retardation （上行解决的）延留音
 - rhythm 节奏
+- root 根音
+- root position 原位
 ## S 19
 - scale 音阶
 - scale degree 音级
 - scale step 音级
 - score 总谱
+- second 二度
+- secondary 副属
+- secondary dominant chord 副属和弦
+- secondary function 副属功能
+- secondary leading-tone chord 副导和弦
+- second inversion 第二转位
 - semitone 半音
 - septuplet 七连音
+- sequence 模进
+- seventh 七度；（和弦的）七音
+- seventh chord 七和弦
 - sextuplet 六连音 
 - sharp 升号
 - signature 见time signature和key signature
+- similar motion 同向进行
 - simple beat 单拍子
+- simple interval 单音程
 - sixteenth note 十六分音符
+- sixth 六度
+- sixth chord 六和弦
+- soprano 女高音，高音声部
 - space （五线谱的）间
+- spacing 排列法
 - staff 五线谱
+- static motion 保持（声部进行的一种)
 - stave 五线谱（stave是由staff的复数staves误推出来的，故与staff同义）
 - stem 符干
 - step 音级；级进
+- stepwire 级进
 - subdominant 下属音
 - submediant 下中音
 - subtonic 下主音
 - supertonic 上主音
+- supertonic seventh chord 上主七和弦，II级七和弦
+- suspension tone 延留音
 - syncopation 切分音
 ## T 20
 - tempo 速度
+- tendency tone 有倾向性的音
+- tenor 男高音，次中音声部
 - tenor clef 男高音谱号，次中音谱号
+- tertian leap 三音跳进
+- texture 织体
+- third 三度；（和弦的）三音
+- third inversion 第三转位
+- thirteenth chord 十三和弦
+- thoroughbass 通奏低音
 - tie 延音线
 - time signature 拍号
 - tonal 调性的
 - tonal music 调性音乐
+- tonal sequence 自然音模进，守调模进
 - tone 音
 - tonic 主音
+- tonicization 离调（主音化）
+- tonicized triad 临时主和弦（主音化三和弦）
+- top note （音程）上方音
 - transpose 移调
 - treble clef 高音谱号
+- triad chord 三和弦
 - triple 三拍
 - triple meter 三拍子
 - triplet 三连音 
+- tritone 三全音
 - tuplet 连音符
 ## U 21
 - unaccented 弱位
+- unequal fifth 不相等五度（指纯五度与减五度连接这类的进行）
+- unison 同度，一度
 - upbeat 弱拍，上拍
 ## V 22
 - value 音值，时值
+- voice 声部
+- voice crossing  声部交叉
+- voice leading 声部进行，声部导进
+- voice overlap 声部超越
 ## W 23
 - whole note 全音符
 - whole step 全音
