@@ -1,5 +1,5 @@
 # English-Chinese-comparison-of-music-theory-terms
-作曲理论术语英汉对照，包括基本乐理、和声学、曲式分析等领域术语
+音乐术语英汉对照，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语
 ## A 1
 - accented 强位
 - accidental 变音记号
