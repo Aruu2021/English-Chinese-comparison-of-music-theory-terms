@@ -106,7 +106,7 @@
 ## F 6
 - false recapitulation 假再现
 - fifth 五度；（和弦的）五音
-- figure 音型（用于泛指一些非典型外音，这些非典型外音主要表现为预备和解决时的非典型形态）
+- figure 音型
 - figured bass 数字低音
 - first inversion 第一转位
 - five-part rondo form 五部回旋曲式
@@ -138,7 +138,7 @@
 - harmonic series 泛音列
 - harmonizing 为...配和声
 - harmony 和声
-- hemiola 赫米奥拉比例 （3+3=2+2+2三比二）
+- hemiola 赫米奥拉比例 （三比二）
 - hidden fifth 隐伏五度
 - home key 主调
 ## I 9
