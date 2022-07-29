@@ -71,6 +71,7 @@
 - circle of fifth 五度循环圈
 - clef 谱号
 - closely related key 近关系调
+- close position 同close structure
 - close structure 密集排列
 - closing section 结束部
 - coda 尾声
@@ -84,6 +85,7 @@
 - compound interval 复音程
 - compound single 复一拍子
 - compound ternary form 复三部曲式
+- concerto 协奏曲
 - conjunct motion 级进
 - consonant （音程或和弦）协和
 - continuous binary form 延续单二部曲式（第一部分不以主和弦结束）
@@ -153,6 +155,7 @@
 - enharmonic modulation 等和弦转调
 - equivalent 等音（比enharmonic equivalent包含的范围要大，也包括同名同音的等音--如八度等同音）
 - escape tone 逸音，规避音，跳进解决的辅助音
+- evaded cadence 规避终止⑤
 - exposition 呈示部
 ## F 6
 - false recapitulation 假再现
@@ -304,6 +307,7 @@
 - octave doubling 八度重复音
 - octave register 八度音区
 - open notehead 空心符头
+- open position 同open structure
 - open structure 开放排列
 - outer voice 内声部
 - overtone 泛音
@@ -507,6 +511,7 @@
 - vocal music 声乐
 - voice 声部
 - voice crossing 声部交叉
+- voice exchange 声部交换⑥，单音交换⑤
 - voice leading 声部进行，声部导进，声部连接（与motion的区别见motion一词）
 - voice overlap 声部超越
 ## W 23
@@ -526,10 +531,11 @@
 1、李重光. 音乐基础理论[M]. 人民音乐出版社, 1962．
 2、周复三. 音乐基础理论教程[M]. 山东大学出版社, 2005．
 3、（苏）斯波索宾 等. 和声学教程[M]. 陈敏, 译. 人民音乐出版社, 2008．
-4、钱仁康、钱亦平. 音乐作品分析教程[M]．上海音乐出版社,2003．
-5、于苏贤. 复调音乐教程[M]. 上海音乐出版社, 2001．
-6、（美）斯蒂芬·雷兹. 完全音乐理论教程[M]. 孟酋、孟巫娜, 译. 湖南文艺出版社, 2016．
-7、（美）斯蒂凡·库斯特卡、多萝茜·佩恩. 调性和声及20世纪音乐概述[M]. 杜晓十, 译. 人民音乐出版社, 2010．
+5、（美）斯蒂芬·雷兹. 完全音乐理论教程[M]. 孟酋、孟巫娜, 译. 湖南文艺出版社, 2016．
+6、（美）斯蒂凡·库斯特卡、多萝茜·佩恩. 调性和声及20世纪音乐概述[M]. 杜晓十, 译. 人民音乐出版社, 2010．
+7、钱仁康、钱亦平. 音乐作品分析教程[M]．上海音乐出版社,2003．
+8、于苏贤. 复调音乐教程[M]. 上海音乐出版社, 2001．
+
 
 参考文献（词典、翻译类）
 1、马扬芝. 中英双语音乐理论概述[M]．上海音乐学院出版社,2019．
