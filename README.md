@@ -150,10 +150,10 @@
 - embellishment 装饰音
 - energy 力性，力度性
 - enharmonic 异名同音的
-- enharmonic equivalent 等音（专指异名同音的等音，同名同音的等音不能加enharmonic），异名同音的对等物（直译）
+- enharmonic equivalent 等音（等音是一个专有名词，表示音高相同而记法和意义不同的音，此为意译，直译为“异名同音的等同音”，故同名同音的等同音以及八度等同音不能加enharmonic）
 - enharmonic interval 等音程
 - enharmonic modulation 等和弦转调
-- equivalent 等音（比enharmonic equivalent包含的范围要大，也包括同名同音的等音--如八度等同音）
+- equivalent 等同音（比enharmonic equivalent包含的范围要大，也包括同名同音的等同音和八度等同音）
 - escape tone 逸音，规避音，跳进解决的辅助音
 - evaded cadence 规避终止⑤
 - exposition 呈示部
