@@ -103,6 +103,7 @@
 - descending melodic minor scale 下行旋律小调音阶
 - development 展开部
 - diatonic chord 自然和弦
+- diatonic scale 自然音阶
 - diminished 减（指音程或和弦性质）
 - diminished seventh chord 减七和弦（同fully diminished）
 - direct fifth 隐伏五度
