@@ -154,7 +154,7 @@
 - enharmonic equivalent 等音（等音是一个专有名词，表示音高相同而记法和意义不同的音，此为意译，直译为“异名同音的等同音”，故同名同音的等同音以及八度等同音不能加enharmonic）
 - enharmonic interval 等音程
 - enharmonic modulation 等和弦转调
-- equal-tempered 平均律的
+- equal-tempered 十二平均律的，十二均分的
 - equivalent 等同音（比enharmonic equivalent包含的范围要大，也包括同名同音的等同音和八度等同音）
 - escape tone 逸音，规避音，跳进解决的辅助音
 - evaded cadence 规避终止⑤
