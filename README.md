@@ -231,6 +231,7 @@
 - interval size 音程度数
 - inversion n.（音程或和弦）转位
 - invert v.（音程或和弦）转位
+- Ionian mode 伊奥尼亚调式
 - Italian augmented sixth chord 意大利增六和弦
 ## J 10
 ## K 11
@@ -246,7 +247,6 @@
 - ledger line 加线
 - line （五线谱的）线（具体某线在其前加序数词表示，如二线second line）
 - Locrian mode 洛克里亚调式
-- Lonian mode 伊奥尼亚调式
 - lower note 根音，下方音（一般指音程）
 - lower voice 下方声部（泛指，具体哪些声部要在后面用括号注释）
 - Lydian mode 利底亚调式
