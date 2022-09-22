@@ -6,7 +6,7 @@
 - Aeolian mode 爱奥利亚调式
 - alla breve 二二拍
 - altered chord 变和弦，变化和弦
-- alto 女低音，中音声部
+- alto 女低音；女低音（声）部，中音（声）部
 - alto clef 女低音谱号，中音谱号
 - anacrusis 弱起
 - anticipation（ANT） 先现音
@@ -29,7 +29,7 @@
 - bar 小节
 - bar line 小节线
 - basic idea 基本乐思
-- bass 男低音，低音声部；低音（和弦最低音）
+- bass 男低音；男低音（声）部，低音（声）部；低音（和弦最低音）
 - bass clef 低音谱号
 - bass line 低音线
 - bass position 低音位置，低音位
@@ -431,7 +431,7 @@
 - skip （三度的）小跳；另见chord skip
 - sonata form 奏鸣曲式
 - sonata-rondo form 奏鸣回旋曲式
-- soprano 女高音，高音声部
+- soprano 女高音；女高音（声）部，高音（声）部
 - space （五线谱的）间（具体某间在其前加序数词表示，如二间second space）
 - spacing 排列法，四部和声的声部间距
 - species counterpoint 分类对位法
@@ -457,7 +457,7 @@
 ## T 20
 - tempo 速度
 - tendency tone 趋向音⑤，有倾向性的音⑥，限定进行音⑦，不稳定音
-- tenor 男高音，次中音声部
+- tenor 男高音；男高音（声）部，次中音（声）部
 - tenor clef 男高音谱号，次中音谱号
 - ternary form 单三部曲式，三段式
 - tertian leap 三音跳进
