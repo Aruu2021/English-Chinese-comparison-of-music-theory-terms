@@ -281,13 +281,14 @@
 - modulating sequence 转调模进
 - modulation n.转调
 - monophonic 单声部的
+- motion 进行，运动（progression、voice leading和motion都有进行之意，progression指和声序进，voice leading指和声序进时声部的连接，而motion则是指声部连接的方式，如平行、反行、半音进行等）
+- motive 动机
+- motivic cell 动机细胞
 - movement 乐章
 - musical duration 音值
 - musical score 乐谱
 - musical tone 乐音
-- motion 进行，运动（progression、voice leading和motion都有进行之意，progression指和声序进，voice leading指和声序进时声部的连接，而motion则是指声部连接的方式，如平行、反行、半音进行等）
-- motive 动机
-- motivic cell 动机细胞
+
 ## N 14
 - natural 还原号
 - natural interval 自然音程
