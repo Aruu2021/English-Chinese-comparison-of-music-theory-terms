@@ -159,6 +159,7 @@
 - escape tone 逸音，规避音，跳进解决的辅助音
 - evaded cadence 规避终止⑤
 - exposition 呈示部
+- extensions 延申音（另见tension）
 ## F 6
 - false recapitulation 假再现
 - F clef F谱号，低音谱号
@@ -460,6 +461,8 @@
 - tendency tone 趋向音⑤，有倾向性的音⑥，限定进行音⑦，不稳定音
 - tenor 男高音；男高音（声）部，次中音（声）部
 - tenor clef 男高音谱号，次中音谱号
+- tension chord 延申和弦，张力和弦
+- tension note 延申音
 - ternary form 单三部曲式，三段式
 - tertian leap 三音跳进
 - texture 织体
