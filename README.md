@@ -461,8 +461,8 @@
 - tendency tone 趋向音⑤，有倾向性的音⑥，限定进行音⑦，不稳定音
 - tenor 男高音；男高音（声）部，次中音（声）部
 - tenor clef 男高音谱号，次中音谱号
-- tension chord 延申和弦，张力和弦
-- tension note 延申音
+- tension chord 延伸和弦，张力和弦
+- tension note 延伸音
 - ternary form 单三部曲式，三段式
 - tertian leap 三音跳进
 - texture 织体
