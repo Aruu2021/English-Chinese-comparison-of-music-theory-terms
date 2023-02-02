@@ -1,5 +1,5 @@
 # English-Chinese-comparison-of-music-theory-terms
-音乐术语英汉对照，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语
+音乐术语英汉对照，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）
 ## A 1
 - accented 强位
 - accidental 变音记号，临时变音记号（相对与调号而言）
@@ -155,11 +155,12 @@
 - enharmonic interval 等音程
 - enharmonic modulation 等和弦转调
 - equal-tempered 十二平均律的，十二均分的
+- equivalence n.等同
 - equivalent 等同音（比enharmonic equivalent包含的范围要大，也包括同名同音的等同音和八度等同音）
 - escape tone 逸音，规避音，跳进解决的辅助音
 - evaded cadence 规避终止⑤
 - exposition 呈示部
-- extensions 延申音（另见tension）
+- extensions 延伸音（另见tension）
 ## F 6
 - false recapitulation 假再现
 - F clef F谱号，低音谱号
@@ -527,6 +528,10 @@
 - whole step 全音，全音级
 - whole tone 全音
 ## XYZ
+
+凡例
+- 1、译名词性不清晰时，在译名前临时增加词性英文缩写表示词性，n.表示名词、v.表示动词、a.表示形容词、ad.表示副词。
+- 2、（施工中）
 
 参考文献（英文）意思相同，词汇使用习惯不同的术语在其后标注下列书目的编号（加圆圈）
 - 1、L. Poundie Burstein & Joseph N. Straus, Concise Introduction to Tonal Harmony, W. W. Norton, 2016.
