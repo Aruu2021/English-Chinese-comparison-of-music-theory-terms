@@ -14,6 +14,7 @@
 - approach 到达，（不协和音的）预备
 - arpeggiation 琶音式，分解和弦式
 - arpeggio 琶音
+- articulation 重音
 - ascending 上行
 - ascending melodic minor scale 上行旋律小调音阶
 - augmentation dot 附点（一般简称为dot）
@@ -330,6 +331,7 @@
 - passing chord 经过和弦
 - passing six-four chord 经过四六和弦
 - passing tone（PT） 经过音
+- pause 延长号
 - pedal point 持续音
 - pedal six-four chord 辅助四六和弦
 - perfect 纯 （指音程性质）；完全，完满（表示音程协和程度或终止完满程度）
@@ -432,6 +434,7 @@
 - sixty-fourth note 六十四分音符
 - sixty-fourth-note rest 六十四分音符
 - skip （三度的）小跳；另见chord skip
+- slur 连音记号
 - sonata form 奏鸣曲式
 - sonata-rondo form 奏鸣回旋曲式
 - soprano 女高音；女高音（声）部，高音（声）部
@@ -464,6 +467,7 @@
 - tenor clef 男高音谱号，次中音谱号
 - tension chord 延伸和弦，张力和弦
 - tension note 延伸音
+- terminal barline 终止复纵线
 - ternary form 单三部曲式，三段式
 - tertian leap 三音跳进
 - texture 织体
@@ -495,6 +499,7 @@
 - treble clef 高音谱号
 - treble staff 高音谱表
 - triad chord 三和弦（或简称triad）
+- trill 颤音
 - trio 三声中部
 - triple 三拍
 - triple compound meter 复三拍子
