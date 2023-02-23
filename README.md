@@ -1,29 +1,5 @@
 # English-Chinese-comparison-of-music-theory-terms
-音乐术语英汉对照【2023-02版】，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）<br>
-<a href="#A">A 1</a><br>
-<a href="#B">B 2</a><br>
-<a href="#C">C 3</a><br>
-<a href="#D">D 4</a><br>
-<a href="#E">E 5</a><br>
-<a href="#F">F 6</a><br>
-<a href="#G">G 7</a><br>
-<a href="#H">H 8</a><br>
-<a href="#I">I 9</a><br>
-<a href="#J">J 10</a><br>
-<a href="#K">K 11</a><br>
-<a href="#L">L 12</a><br>
-<a href="#M">M 13</a><br>
-<a href="#N">N 14</a><br>
-<a href="#O">O 15</a><br>
-<a href="#P">P 16</a><br>
-<a href="#Q">Q 17</a><br>
-<a href="#R">R 18</a><br>
-<a href="#S">S 19</a><br>
-<a href="#T">T 20</a><br>
-<a href="#U">U 21</a><br>
-<a href="#V">V 22</a><br>
-<a href="#W">W 23</a><br>
-<a href="#XYZ">XYZ</a><br>
+音乐术语英汉对照【2023-02版】，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）
 
 <h1 id="A">A 1</h1><a href="#">返回顶部</a>
 ## A 1
