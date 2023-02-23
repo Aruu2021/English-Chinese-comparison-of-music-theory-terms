@@ -1,6 +1,5 @@
 # English-Chinese-comparison-of-music-theory-terms
 音乐术语英汉对照【2023-02版】，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）
-
 ## A 1
 - accented 强位
 - accidental 变音记号，临时变音记号（相对与调号而言）
@@ -15,7 +14,7 @@
 - approach 到达，（不协和音的）预备
 - arpeggiation 琶音式，分解和弦式
 - arpeggio 琶音
-- articulation 重音
+- articulation 运音法（包括跳音、顿音、重音等）
 - ascending 上行
 - ascending melodic minor scale 上行旋律小调音阶
 - augmentation dot 附点（一般简称为dot）
@@ -47,7 +46,7 @@
 - breve note 二全音符
 - broken 分解
 - broken chord 分解和弦
-<h1 id="C">C 3</h1><a href="#">返回顶部</a>
+## C 3
 - cadence 终止
 - cadential six-four chord 终止四六和弦，K46和弦
 - cantus firmus（C.F.） 固定调，固定旋律，固定声部
@@ -95,7 +94,7 @@
 - contrasting period 对比乐段
 - counterpoint 对位法；对位，对位声部，对位旋律
 - contrapuntal motion 对位化运动
-<h1 id="D">D 4</h1><a href="#">返回顶部</a>
+## D 4
 - deceptive cadence（DC）  阻碍终止 
 - deceptive progression 阻碍进行
 - degree 音级
@@ -143,7 +142,7 @@
 - durational 时值的
 - durational symbol 时值符号
 - dynamic 力度
-<h1 id="E">E 5</h1><a href="#">返回顶部</a>
+## E 5
 - eighth note 八分音符
 - eighth-note rest 八分休止符
 - eleventh chord 十一和弦
@@ -163,7 +162,7 @@
 - evaded cadence 规避终止⑤
 - exposition 呈示部
 - extensions 延伸音（另见tension）
-<h1 id="F">F 6</h1><a href="#">返回顶部</a>
+## F 6
 - false recapitulation 假再现
 - F clef F谱号，低音谱号
 - fifth 五度；（和弦的）五音
@@ -193,11 +192,11 @@
 - fully diminished seventh chord 减减七和弦（简称fully diminished）
 - function 功能
 - fundamental tone 基音
-<h1 id="G">G 7</h1><a href="#">返回顶部</a>
+## G 7
 - G clef G谱号，高音谱号
 - German augmented sixth chord 德意志增六和弦
 - grand staff 大谱表
-<h1 id="H">H 8</h1><a href="#">返回顶部</a>
+## H 8
 - half cadence（HC） 半终止
 - half-diminished seventh chord 半减七和弦（简称half-diminished）
 - half note 二分音符
@@ -220,7 +219,7 @@
 - hidden octave 隐伏八度
 - home key 主调
 - hymn 赞美诗
-<h1 id="I">I 9</h1><a href="#">返回顶部</a>
+## I 9
 - idea 见basic idea或musical idea
 - imperfect 不完全，不完满（表示音程协和程度或终止完满程度）
 - imperfect authentic cadence（IAC）不完全终止，不完满正格终止
@@ -237,14 +236,14 @@
 - invert v.（音程或和弦）转位
 - Ionian mode 伊奥尼亚调式
 - Italian augmented sixth chord 意大利增六和弦
-<h1 id="J">J 10</h1><a href="#">返回顶部</a>
-<h1 id="K">K 11</h1><a href="#">返回顶部</a>
+## J 10
+## K 11
 - key 调，调性；（键盘乐器的）键
 - keyboard （键盘乐器的）键盘
 - keyboard format① 键盘风格（同keyboard style）
 - keyboard style② 键盘风格
 - key signature 调号
-<h1 id="L">L 12</h1><a href="#">返回顶部</a>
+## L 12
 - leading-tone 导音
 - leading-tone seventh chord 导七和弦
 - leap 跳进
@@ -254,7 +253,7 @@
 - lower note 根音，下方音（一般指音程）
 - lower voice 下方声部（泛指，具体哪些声部要在后面用括号注释）
 - Lydian mode 利底亚调式
-<h1 id="M">M 13</h1><a href="#">返回顶部</a>
+## M 13
 - major 大（指调式、音程或和弦的性质）；做大调、大七和弦的简称
 - major key 大调
 - major-minor seventh chord 大小七和弦
@@ -293,7 +292,7 @@
 - musical idea 乐思
 - musical score 乐谱
 - musical tone 乐音
-<h1 id="N">N 14</h1><a href="#">返回顶部</a>
+## N 14
 - natural 还原号
 - natural interval 自然音程
 - natural minor scale 自然小调音阶
@@ -308,7 +307,7 @@
 - note 音符
 - notehead 符头（实心符头称filled-in notehead，空心符头称open notehead）
 - numerical name 音程度数
-<h1 id="O">O 15</h1><a href="#">返回顶部</a>
+## O 15
 - oblique motion 斜行，斜向进行
 - octave 八度
 - octave doubling 八度重复音
@@ -318,7 +317,7 @@
 - open structure 开放排列
 - outer voice 内声部
 - overtone 泛音
-<h1 id="P">P 16</h1><a href="#">返回顶部</a>
+## P 16
 - parallel fifth 平行五度
 - parallel key 同主音调，平行调
 - parallel minor 同主音小调
@@ -359,7 +358,7 @@
 - progress v.进行
 - progression n.进行，序进（与motion的区别见motion一词）
 - pure tone 纯音
-<h1 id="Q">Q 17</h1><a href="#">返回顶部</a>
+## Q 17
 - quadruple 四拍
 - quadruple compound meter 复四拍子
 - quadruple meter 四拍子
@@ -369,7 +368,7 @@
 - quarter note 四分音符
 - quarter-note rest 四分休止符
 - quintuplet 五连音
-<h1 id="R">R 18</h1><a href="#">返回顶部</a>
+## R 18
 - range 音域
 - realize v.对（记谱不全的乐曲）做完整改编，根据（和声标记）写出（四部和声）
 - real sequence 半音模进，严格模进
@@ -390,7 +389,7 @@
 - root 根音
 - root position 原位
 - rounded rinary form 再现单二部
-<h1 id="S">S 19</h1><a href="#">返回顶部</a>
+## S 19
 - scale 音阶
 - scale degree 音级，音阶级
 - scale-degree name 音级名
@@ -461,7 +460,7 @@
 - support 伴奏
 - suspension（SUS） 延留音
 - syncopation 切分音
-<h1 id="T">T 20</h1><a href="#">返回顶部</a>
+## T 20
 - tempo 速度
 - tendency tone 趋向音⑤，有倾向性的音⑥，限定进行音⑦，不稳定音
 - tenor 男高音；男高音（声）部，次中音（声）部
@@ -509,7 +508,7 @@
 - triplet 三连音
 - tritone 三全音
 - tuplet 连音符
-<h1 id="U">U 21</h1><a href="#">返回顶部</a>
+## U 21
 - unaccented 弱位
 - unbalanced binary 非方整型单二部曲式
 - unequal fifth 不相等五度（指纯五度与减五度连接这类的进行）
@@ -517,7 +516,7 @@
 - upbeat 弱拍，上拍；弱起（一般用anacrusis表示弱起）
 - upper note 冠音，上方音（一般指音程）
 - upper voice 上方声部（泛指，具体哪些声部要在后面用括号注释）
-<h1 id="V">V 22</h1><a href="#">返回顶部</a>
+## V 22
 - value 音值，时值
 - violists 中提琴演奏者
 - vocal choir 声乐合唱；声乐合唱团
@@ -527,22 +526,22 @@
 - voice exchange 声部交换⑥，单音交换⑤
 - voice leading 声部进行，声部导进，声部连接（与motion的区别见motion一词）
 - voice overlap 声部超越
-<h1 id="W">W 23</h1><a href="#">返回顶部</a>
+## W 23
 - weak beat 弱拍
 - whole note 全音符
 - whole-note rest 全休止符
 - whole step 全音，全音级
 - whole tone 全音
-<h1 id="XYZ">XYZ</h1><a href="#">返回顶部</a>
+## XYZ
 
 
-凡例与备注
-- 1.部分译名词性多，容易误解，会在译名前临时增加词性英文缩写表示词性，n.表示名词、v.表示动词、a.表示形容词、ad.表示副词。
-- 2.多个不同译名的，按从常见到罕见排列（但这个基于编者主观判断，并不一定准确）。
-- 3.分号隔开的译名为同词异意，逗号隔开的译名为同意异译
-- 4.英文术语中，意思相同但词汇使用习惯不同的术语在其后标注英文参考文献的数字编号（外加圆圈）
-- 5.中文译名中，有多个争议译名的术语在其后标注中文参考文献的数字编号（外加圆圈），特别地，词典、翻译类文献用字母编号。
-- 6.（施工中）
+凡例与备注<br>
+1.部分译名词性多，容易误解，会在译名前临时增加词性英文缩写表示词性，n.表示名词、v.表示动词、a.表示形容词、ad.表示副词。<br>
+2.多个不同译名的，按从常见到罕见排列（但这个基于编者主观判断，并不一定准确）。<br>
+3.分号隔开的译名为同词异意，逗号隔开的译名为同意异译<br>
+4.英文术语中，意思相同但词汇使用习惯不同的术语在其后标注英文参考文献的数字编号（外加圆圈）<br>
+5.中文译名中，有多个争议译名的术语在其后标注中文参考文献的数字编号（外加圆圈），特别地，词典、翻译类文献用字母编号。<br>
+6.（施工中）<br>
 
 英文参考文献
 - [1]L. Poundie Burstein & Joseph N. Straus, Concise Introduction to Tonal Harmony, W. W. Norton, 2016.
@@ -568,5 +567,5 @@
 - E.郑玉章、张愉、缑斌. 音乐分类词汇手册[M]. 天地出版社, 2005．
 
 后记
-本文现收词504个，编者学力所限，难免有所疏漏，欢迎大家在评论区留言讨论
+本文现收词509个，编者学力所限，难免有所疏漏，欢迎大家在评论区留言讨论
 
