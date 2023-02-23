@@ -1,5 +1,6 @@
 # English-Chinese-comparison-of-music-theory-terms
 音乐术语英汉对照【2023-02版】，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）
+<a href="#xyz">XYZ</a>
 ## A 1
 - accented 强位
 - accidental 变音记号，临时变音记号（相对与调号而言）
@@ -533,6 +534,7 @@
 - whole step 全音，全音级
 - whole tone 全音
 ## XYZ
+<h4 id="xyz">xyz</h4><a href="#">返回顶部</a>
 
 凡例与备注
 - 1.部分译名词性多，容易误解，会在译名前临时增加词性英文缩写表示词性，n.表示名词、v.表示动词、a.表示形容词、ad.表示副词。
