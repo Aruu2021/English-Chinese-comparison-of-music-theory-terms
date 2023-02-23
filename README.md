@@ -1,7 +1,6 @@
 # English-Chinese-comparison-of-music-theory-terms
 音乐术语英汉对照【2023-02版】，包括作曲理论、音乐史、民族音乐、流行音乐、音乐科技、音乐教育等领域术语（凡例及参考文献见文末）
 
-<h1 id="A">A 1</h1><a href="#">返回顶部</a>
 ## A 1
 - accented 强位
 - accidental 变音记号，临时变音记号（相对与调号而言）
@@ -27,7 +26,7 @@
 - augmented sixth chord 增六和弦
 - authentic 正格的
 - authentic cadence（AC） 正格终止
-<h1 id="B">B 2</h1><a href="#">返回顶部</a>
+## B 2
 - balanced binary 方整型单二部曲式
 - bar 小节
 - bar line 小节线
