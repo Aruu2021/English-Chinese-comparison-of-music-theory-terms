@@ -1,8 +1,9 @@
 # English-Chinese-comparison-of-music-theory-terms
 音乐术语英汉对照【2023-02版】
-目前包含：基本乐理、传统和声学、传统曲式、五类对位
-预备加入：现代音乐理论、乐器法、完整的复调内容（持续更新中。。。）
-凡例及参考文献见文末
+！！！本项目在本站已停止更新，最新修订版本请移步知乎https://zhuanlan.zhihu.com/p/535023711<br>
+！！！本项目在本站已停止更新，最新修订版本请移步知乎https://zhuanlan.zhihu.com/p/535023711<br>
+！！！本项目在本站已停止更新，最新修订版本请移步知乎https://zhuanlan.zhihu.com/p/535023711<br>
+
 ## A 1
 - accented 强位
 - accidental 变音记号，临时变音记号（相对与调号而言）
